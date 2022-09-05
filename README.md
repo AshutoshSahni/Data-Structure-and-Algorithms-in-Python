@@ -1,10 +1,10 @@
 # Data-Structure-and-Algorithms-in-Python
 
-This Github directory includes the implementation of Data Structure and Algorithms in Python. **Currently I am learning DSA** and also trying to maintain this repository.
+This Github repository includes the implementation of Data Structure and Algorithms in Python. **Currently I am learning DSA** and also trying to maintain this repository.
 
-Apart from implementation, I am also **including the details about Space and Time Complexity** of each Data Structure and Algorithm with a brief explaination about working of topic.
+Apart from implementation, I have also **included the details about Space and Time Complexity** of each Data Structure and Algorithm with a brief explaination.
 
-So far topics covered :
+Topics covered so far:
 
 **Algorithms**
 1. Linear Search
