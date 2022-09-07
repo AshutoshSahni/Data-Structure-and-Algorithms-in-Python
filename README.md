@@ -8,4 +8,4 @@ Topics covered so far:
 
 **Algorithms**
 1. Linear Search
-
+2. Binary Search
