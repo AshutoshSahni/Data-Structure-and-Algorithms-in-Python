@@ -10,3 +10,7 @@ Topics covered so far:
 1. Linear Search
 2. Binary Search
 3. Shell Sort
+
+
+**Data Structures**
+1. Stack
