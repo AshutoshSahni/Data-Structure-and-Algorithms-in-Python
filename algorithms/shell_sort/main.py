@@ -1,5 +1,4 @@
 # Name              :   Shell Sort
-# Author            :   Ashutosh Sahni
 # Version           :   Python 3.x
 # Description       :   Implementation of Shell Sort (Iterative Method)
 # Time Complexity   :   Best - O(n*Log(n)), Average - O(n*1.25) and Worst - O(n^2)

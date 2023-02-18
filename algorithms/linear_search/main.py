@@ -1,5 +1,4 @@
 # Name              :   Linear Search
-# Author            :   Ashutosh Sahni
 # Version           :   Python 3.x
 # Description       :   Implementation of Linear Search
 # Time Complexity   :   Best - O(1), Average - O(n) and Worst - O(n)

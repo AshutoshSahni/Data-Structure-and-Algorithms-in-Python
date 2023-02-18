@@ -1,5 +1,4 @@
 # Name              :   Binary Search
-# Author            :   Ashutosh Sahni
 # Version           :   Python 3.x
 # Description       :   Implementation of Binary Search (Iterative Method)
 # Time Complexity   :   Best - O(1), Average - O(log(n)) and Worst - O(log(n))

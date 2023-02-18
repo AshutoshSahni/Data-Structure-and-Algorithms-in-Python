@@ -2,7 +2,6 @@
 # Version           :   Python 3.x
 # Description       :   Implementation of Stack
 # Time Complexity   :   For Array/List based implementation O(1)
-# Space Complexity  :   Worst - O(1)
 
 
 # create a stack
