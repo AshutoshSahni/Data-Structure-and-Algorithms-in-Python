@@ -15,4 +15,4 @@ Topics covered so far:
 **Data Structures**
 1. Stack
 2. Queue
-	2.1. Circular Queue
+3. Circular Queue
